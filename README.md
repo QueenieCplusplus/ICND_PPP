@@ -37,6 +37,9 @@
 
  # Serial 序列纜線的同步標準
  
+ 
+      用戶端設備  CPE DTE （data terminal equipment） ------------ DCE （data communication equipment）服務供應商
+ 
  除了數據機以外，其他如專線或是封包交換的虛擬電路都採用如下序列式標準：
  
  * x.21
