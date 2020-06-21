@@ -128,6 +128,16 @@
 
 * LCP 連結控制通訊協定 - 實體層
 
+  * 認證設定
+
+  * 壓縮格式（來源壓縮、目的解壓縮) stacker
+  
+  * 避免資料框迴圈 quality
+  
+  * 避免資料遺失 magic number
+  
+  * 均採用平衡負載的多重連線
+
 # Ref Doc
 
 https://tools.ietf.org/html/rfc2153
