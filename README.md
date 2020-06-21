@@ -32,6 +32,6 @@
 
     同步串列
     
-    採用虛擬電路 Virtual-Circuit 來達成 end-to-end 終端對終端的連線。
+    採用虛擬電路 Virtual-Circuit （程式化）來達成 end-to-end 終端對終端的連線。
     
     
