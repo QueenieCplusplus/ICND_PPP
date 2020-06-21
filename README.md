@@ -51,6 +51,11 @@
  
  # WAN 設備
  
+
+         CPE ----- Demarc ------- CO/Toll Network -------- Last Mile
+
+ 
+
  * Customer Premise Equipment
  
    服務供應商租給用戶的，或是用戶本身所有的。
