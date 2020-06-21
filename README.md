@@ -91,9 +91,11 @@
 
 * HDLC, 高級資料鏈結控制
 
-* SLIP, 序列線網路通訊協定
+* SLIP, 序列線網路通訊協定 (deprecated)
 
-* X.25/LAPB, 平衡連結存取程序 
+  已經被 PPP 取代。
+
+* X.25/LAPB, 平衡連結存取程序 (deprecated)
 
 * Frame Relay, 交換式資料鏈結通訊協定
 
