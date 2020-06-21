@@ -49,4 +49,26 @@
  
  * EIA-530
  
+ # WAN 設備
+ 
+ * Customer Premise Equipment
+ 
+   服務供應商租給用戶的，或是用戶本身所有的。
+ 
+ * Demarc, Demarcation
+ 
+   劃定界線。
+ 
+   CPE 至本地回圈 Local Loop (Last Mile)，位在用戶端的電信箱內。
+ 
+ * Last Mile
+ 
+   此為銅線，是從用戶端電信箱到網路提供者機房內的一段電路。
+ 
+ * CO, Central Office Switch 
+ 
+   電信交換設備
+   
+   這是電信服務商最接近用戶端的設備。
+ 
  
