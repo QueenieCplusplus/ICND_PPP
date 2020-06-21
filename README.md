@@ -121,3 +121,7 @@
 # PPP 連線
 
 啟用 PPP 連線，兩端設備的通訊協定需要啟用 session 交談。鏈路測試階段，PPP 設備送出 LCP 封包，內含有設定功能與欄位，使兩端設備能協調 MTU、Compress、Auth，倘若此時跳過設定，則以預設進行。接著將送出的封包選擇或被設定一個（或多個）通訊協定，如 IP。
+
+# Ref Doc
+
+https://tools.ietf.org/html/rfc2153
